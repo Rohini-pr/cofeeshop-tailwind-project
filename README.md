@@ -2,12 +2,9 @@
 
 This is a Frontend that I made using Tailwind CSS. It also serves as a refrence repository for tailwind CSS
 
-To clone this file navigate to your desired location and paste the following command
 
                                   
-                                  git clone https://github.com/Rohini-pr/cofeeshop-tailwind-project.git
-
-
+                                 
  Home Page
 
 
