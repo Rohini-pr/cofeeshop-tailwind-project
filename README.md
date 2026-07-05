@@ -1,5 +1,17 @@
-# Coffee Express
+# ☕ Coffee Express
 
+About the Project:
+
+Coffee Express is a modern and responsive coffee shop website built using HTML5 and Tailwind CSS. The website features a clean, visually appealing interface that provides users with an engaging experience while exploring the coffee shop's offerings.
+
+The website includes four main sections:
+
+- Home – Introduces the coffee shop with an attractive landing page.
+- About – Provides information about Coffee Express and its story.
+- Products – Showcases a selection of coffee products in a responsive layout.
+- Contact – Allows visitors to find contact information and connect with the coffee shop.
+
+This project demonstrates the use of Tailwind CSS utility classes to create a responsive, mobile-friendly design with modern styling. It was developed to strengthen front-end development skills and gain practical experience building responsive websites using Tailwind CSS
 This is a Frontend that I made using Tailwind CSS. It also serves as a refrence repository for tailwind CSS
 
 
